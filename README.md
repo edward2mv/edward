@@ -4,13 +4,13 @@ Hi 👋 My name is Eudys Medina
 Full-Stack Web Developer
 ------------------------
 
-I'm an proficient Full-Stack Developer who loves working with problem-solving and analytical skills, clean coding standards and highly interactive web development, disciplinary rules and procedures to set the behavior standards expected of me at work, proactive attitude & detail-oriented with high time management skills qualities. I like to use top modern frameworks like NextJS (react framework), React, Redux-toolkit, Bootstrap and so on. Besides from coding, some other activities that I love to do! -Playing Games 🎮 -Camping 🏕️ -cooking 👨‍🍳
+I'm an proficient Full-Stack Developer who loves working with problem-solving and analytical skills, clean coding standards and highly interactive web development, disciplinary rules and procedures to set the behavior standards expected of me at work, proactive attitude & detail-oriented with high time management skills qualities. I like to use top modern frameworks like NextJS (react framework), React, Bootstrap and so on. Besides from coding, some other activities that I love to do! -Playing Games 🎮 -Camping 🏕️ -cooking 👨‍🍳
 
 * 🌍  I'm based in Dominican Republic
 * 🖥️  See my portfolio at [edme.tech](http://www.edme.tech/)
 * ✉️  You can contact me at [edme.dev@hotmail.com](mailto:edme.dev@hotmail.com)
 * 🚀  I'm currently working on [Udenfy, Inc.](http://udenfy.com)
-* 🧠  I'm learning Solidity, web3.js, Docker...
+* 🧠  I'm learning Solidity, Redux, Docker...
 
 <a href="https://www.twitter.com/edward2mv" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/edward2mv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
