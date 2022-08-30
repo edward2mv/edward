@@ -9,7 +9,7 @@ I'm an proficient Full-Stack Developer who loves working with problem-solving an
 * 🌍  I'm based in Dominican Republic
 * 🖥️  See my portfolio at [edme.tech](http://www.edme.tech/)
 * ✉️  You can contact me at [edme.dev@hotmail.com](mailto:edme.dev@hotmail.com)
-* 🚀  I'm currently working on [Udenfy, Inc.](http://udenfy.com)
+* 🚀  I'm currently working on [Cynador Agencia de marketing Digital.](https://cynador.com)
 * 🧠  I'm learning Solidity, Redux, Docker...
 
 <a href="https://www.twitter.com/edward2mv" target="_blank" rel="noreferrer"><img
