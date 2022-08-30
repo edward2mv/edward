@@ -7,7 +7,7 @@ Full-Stack Web Developer
 I'm an proficient Full-Stack Developer who loves working with problem-solving and analytical skills, clean coding standards and highly interactive web development, disciplinary rules and procedures to set the behavior standards expected of me at work, proactive attitude & detail-oriented with high time management skills qualities. I like to use top modern frameworks like NextJS (react framework), React, Bootstrap and so on. Besides from coding, some other activities that I love to do! -Playing Games 🎮 -Camping 🏕️ -cooking 👨‍🍳
 
 * 🌍  I'm based in Dominican Republic
-* 🖥️  See my portfolio at [edme.tech](http://www.edme.tech/)
+* 🖥️  See my portfolio at [edme.dev](http://www.edme.dev/)
 * ✉️  You can contact me at [edme.dev@hotmail.com](mailto:edme.dev@hotmail.com)
 * 🚀  I'm currently working on [Cynador Agencia de marketing Digital.](https://cynador.com)
 * 🧠  I'm learning Solidity, Redux, Docker...
